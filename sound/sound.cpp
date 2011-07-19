@@ -72,6 +72,8 @@ if (strongBeat_obj < 2)
     {
     TCCR2B |= (1 << CS22);
     TCCR2B &= ~((1 << CS21) | (1 << CS20));
+
+    countBeats_obj = 0;
     }
 
 else
@@ -93,7 +95,7 @@ else
         TCCR2B &= ~((1 << CS21) | (1 << CS20));
 
 
-        if (countBeats_obj == strongBeat_obj)
+        if (countBeats_obj >= strongBeat_obj)
             {
             countBeats_obj = 0;
             }
