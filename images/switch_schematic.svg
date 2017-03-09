@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.0 r9654"
+   sodipodi:docname="switch_schematic.svg"
+   inkscape:export-filename="/home/drk/Dropbox/programming/projects/metronome_controller/random stuff/switch_schematic.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7071068"
+     inkscape:cx="403.20814"
+     inkscape:cy="704.89907"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="714"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2985" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g3932"
+       transform="matrix(0,-1,1,0,-12.362183,607.36218)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3926"
+         d="m 325,362.36218 45,0"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <rect
+         y="352.36218"
+         x="370"
+         height="20"
+         width="55"
+         id="rect3928"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 425,362.36218 45,0"
+         id="path3930"
+         inkscape:connector-curvature="0" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="320"
+       y="82.362183"
+       id="text3039"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3041"
+         x="320"
+         y="82.362183">pullup resistor with a switch</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="334.46149"
+       y="126.75943"
+       id="text3043"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3045"
+         x="334.46149"
+         y="126.75943">Vcc</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="369.10974"
+       y="198.88432"
+       id="text3047"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3049"
+         x="369.10974"
+         y="198.88432">10k ohm, or similar value</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 350,282.36218 150,0"
+       id="path3051"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g3855"
+       transform="translate(0,-10)">
+      <g
+         id="g3845">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 350,292.36218 0,25"
+           id="path3053"
+           inkscape:connector-curvature="0" />
+        <path
+           sodipodi:type="arc"
+           style="fill:none;stroke:#000000;stroke-width:1.66666615;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="path3055"
+           sodipodi:cx="347.5"
+           sodipodi:cy="324.86218"
+           sodipodi:rx="7.5"
+           sodipodi:ry="7.5"
+           d="m 355,324.86218 c 0,4.14214 -3.35786,7.5 -7.5,7.5 -4.14214,0 -7.5,-3.35786 -7.5,-7.5 0,-4.14213 3.35786,-7.5 7.5,-7.5 4.14214,0 7.5,3.35787 7.5,7.5 z"
+           transform="matrix(0.60000017,0,0,0.60000017,141.49994,126.94482)" />
+      </g>
+      <g
+         transform="translate(10,-9.9999974)"
+         id="g3839">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 330,327.36218 0,50"
+           id="path3835"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 330,352.36218 -25,0"
+           id="path3837"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="matrix(-1,0,0,-1,700,684.72436)"
+         id="g3849">
+        <path
+           inkscape:connector-curvature="0"
+           id="path3851"
+           d="m 350,292.36218 0,25"
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           transform="matrix(0.60000017,0,0,0.60000017,141.49994,126.94482)"
+           d="m 355,324.86218 c 0,4.14214 -3.35786,7.5 -7.5,7.5 -4.14214,0 -7.5,-3.35786 -7.5,-7.5 0,-4.14213 3.35786,-7.5 7.5,-7.5 4.14214,0 7.5,3.35787 7.5,7.5 z"
+           sodipodi:ry="7.5"
+           sodipodi:rx="7.5"
+           sodipodi:cy="324.86218"
+           sodipodi:cx="347.5"
+           id="path3853"
+           style="fill:none;stroke:#000000;stroke-width:1.66666615;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           sodipodi:type="arc" />
+      </g>
+    </g>
+    <g
+       id="g3868"
+       transform="translate(0,-19.999997)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3964"
+         d="m 340,432.36218 20,0 -10,15 -10,-15"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3866"
+         d="m 350,432.36218 0,-30"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="520"
+       y="282.36218"
+       id="text3872"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3874"
+         x="520"
+         y="282.36218">input pin</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="370"
+       y="342.36218"
+       id="text3876"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3878"
+         x="370"
+         y="342.36218">when the switch isn't been pressed,</tspan><tspan
+         sodipodi:role="line"
+         x="370"
+         y="364.86218"
+         id="tspan3880">    we read a 1</tspan><tspan
+         sodipodi:role="line"
+         x="370"
+         y="387.36218"
+         id="tspan3882">when we press it, we read a 0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="360"
+       y="516.36218"
+       id="text3884"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3886"
+         x="360"
+         y="516.36218">using the internal pullup resistor</tspan><tspan
+         sodipodi:role="line"
+         x="360"
+         y="538.86218"
+         id="tspan3975">of the microcontroller</tspan></text>
+    <g
+       transform="translate(130,300)"
+       id="g3888">
+      <g
+         id="g3890">
+        <path
+           inkscape:connector-curvature="0"
+           id="path3892"
+           d="m 350,292.36218 0,25"
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           transform="matrix(0.60000017,0,0,0.60000017,141.49994,126.94482)"
+           d="m 355,324.86218 c 0,4.14214 -3.35786,7.5 -7.5,7.5 -4.14214,0 -7.5,-3.35786 -7.5,-7.5 0,-4.14213 3.35786,-7.5 7.5,-7.5 4.14214,0 7.5,3.35787 7.5,7.5 z"
+           sodipodi:ry="7.5"
+           sodipodi:rx="7.5"
+           sodipodi:cy="324.86218"
+           sodipodi:cx="347.5"
+           id="path3894"
+           style="fill:none;stroke:#000000;stroke-width:1.66666615;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           sodipodi:type="arc" />
+      </g>
+      <g
+         id="g3896"
+         transform="translate(10,-9.9999974)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path3898"
+           d="m 330,327.36218 0,50"
+           style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path3900"
+           d="m 330,352.36218 -25,0"
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+      <g
+         id="g3902"
+         transform="matrix(-1,0,0,-1,700,684.72436)">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 350,292.36218 0,25"
+           id="path3904"
+           inkscape:connector-curvature="0" />
+        <path
+           sodipodi:type="arc"
+           style="fill:none;stroke:#000000;stroke-width:1.66666615;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="path3906"
+           sodipodi:cx="347.5"
+           sodipodi:cy="324.86218"
+           sodipodi:rx="7.5"
+           sodipodi:ry="7.5"
+           d="m 355,324.86218 c 0,4.14214 -3.35786,7.5 -7.5,7.5 -4.14214,0 -7.5,-3.35786 -7.5,-7.5 0,-4.14213 3.35786,-7.5 7.5,-7.5 4.14214,0 7.5,3.35787 7.5,7.5 z"
+           transform="matrix(0.60000017,0,0,0.60000017,141.49994,126.94482)" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="450"
+       y="576.36218"
+       id="text3872-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3874-3"
+         x="450"
+         y="576.36218">input pin</tspan></text>
+    <g
+       id="g3868-6"
+       transform="translate(130,289)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3964-0"
+         d="m 340,432.36218 20,0 -10,15 -10,-15"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3866-6"
+         d="m 350,432.36218 0,-30"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="323.75439"
+       y="829.11743"
+       id="text3971"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3973"
+         x="323.75439"
+         y="829.11743">pulldown resistor with a switch</tspan></text>
+    <g
+       id="g3932-7"
+       transform="matrix(0,-1,1,0,-22.36218,1457.3622)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3926-6"
+         d="m 325,362.36218 45,0"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <rect
+         y="352.36218"
+         x="370"
+         height="20"
+         width="55"
+         id="rect3928-6"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 425,362.36218 45,0"
+         id="path3930-3"
+         inkscape:connector-curvature="0" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="324.46149"
+       y="876.75946"
+       id="text3043-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3045-4"
+         x="324.46149"
+         y="876.75946">Vcc</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="370"
+       y="1072.3622"
+       id="text3047-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3049-6"
+         x="370"
+         y="1072.3622">10k ohm, or similar value</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 340,987.36218 150,0"
+       id="path3051-0"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g3855-4"
+       transform="translate(-10,595)">
+      <g
+         id="g3845-3">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 350,292.36218 0,25"
+           id="path3053-6"
+           inkscape:connector-curvature="0" />
+        <path
+           sodipodi:type="arc"
+           style="fill:none;stroke:#000000;stroke-width:1.66666615;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="path3055-3"
+           sodipodi:cx="347.5"
+           sodipodi:cy="324.86218"
+           sodipodi:rx="7.5"
+           sodipodi:ry="7.5"
+           d="m 355,324.86218 c 0,4.14214 -3.35786,7.5 -7.5,7.5 -4.14214,0 -7.5,-3.35786 -7.5,-7.5 0,-4.14213 3.35786,-7.5 7.5,-7.5 4.14214,0 7.5,3.35787 7.5,7.5 z"
+           transform="matrix(0.60000017,0,0,0.60000017,141.49994,126.94482)" />
+      </g>
+      <g
+         transform="translate(10,-9.9999974)"
+         id="g3839-7">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 330,327.36218 0,50"
+           id="path3835-4"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 330,352.36218 -25,0"
+           id="path3837-9"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="matrix(-1,0,0,-1,700,684.72436)"
+         id="g3849-4">
+        <path
+           inkscape:connector-curvature="0"
+           id="path3851-2"
+           d="m 350,292.36218 0,25"
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           transform="matrix(0.60000017,0,0,0.60000017,141.49994,126.94482)"
+           d="m 355,324.86218 c 0,4.14214 -3.35786,7.5 -7.5,7.5 -4.14214,0 -7.5,-3.35786 -7.5,-7.5 0,-4.14213 3.35786,-7.5 7.5,-7.5 4.14214,0 7.5,3.35787 7.5,7.5 z"
+           sodipodi:ry="7.5"
+           sodipodi:rx="7.5"
+           sodipodi:cy="324.86218"
+           sodipodi:cx="347.5"
+           id="path3853-9"
+           style="fill:none;stroke:#000000;stroke-width:1.66666615;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           sodipodi:type="arc" />
+      </g>
+    </g>
+    <g
+       id="g3868-3"
+       transform="translate(-10,730)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3964-8"
+         d="m 340,432.36218 20,0 -10,15 -10,-15"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3866-2"
+         d="m 350,432.36218 0,-30"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="500"
+       y="992.36218"
+       id="text3872-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3874-5"
+         x="500"
+         y="992.36218">input pin</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="400"
+       y="892.36218"
+       id="text3876-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3878-3"
+         x="400"
+         y="892.36218">when the switch isn't been pressed,</tspan><tspan
+         sodipodi:role="line"
+         x="400"
+         y="914.86218"
+         id="tspan3880-2">    we read a 0</tspan><tspan
+         sodipodi:role="line"
+         x="400"
+         y="937.36218"
+         id="tspan3882-2">when we press it, we read a 1</tspan></text>
+  </g>
+</svg>
